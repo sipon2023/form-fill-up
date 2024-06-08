@@ -1,3 +1,7 @@
+
+*{
+    background-image: url(assets/Capture.PNG);
+}
 label{
     display: block;
     margin-bottom: 10px;
@@ -10,6 +14,8 @@ form{
 }
 
 footer{
-    height: 20px;
+    padding-top: 10%;
+    height: 60px;
     text-align: center;
+    background-color: gray;
 }
